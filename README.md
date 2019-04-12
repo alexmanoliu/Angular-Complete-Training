@@ -1,4 +1,4 @@
-# Angular-Complete-Training
+# Angular-Complete-Doc
 
 Complete tutorial including the fundamentals about modules, directives, components, databinding, routing, HTTP access and much more;
 
